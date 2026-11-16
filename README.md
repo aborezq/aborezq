@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-  <a href="https://mohammedawad.online"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=900&color=D9B36A&center=true&vCenter=true&width=520&height=44&lines=I+am+a+Computer+Engineer;I+am+a+Team+Leader;I+am+a+Flutter+Developer;I+am+a+Problem+Solver" alt="I am a Computer Engineer, a Team Leader, a Flutter Developer and a Problem Solver"></a>
+  <a href="https://mohammedawad.online"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=900&color=D9B36A&center=true&vCenter=true&width=520&height=44&lines=I+am+a+Computer+Engineer;I+am+a+Team+Leader;I+am+an+AI+Engineer;I+am+a+Problem+Solver" alt="I am a Computer Engineer, a Team Leader, an AI Engineer and a Problem Solver"></a>
 </p>
 
 <p align="center">
