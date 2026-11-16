@@ -11,6 +11,17 @@
   <a href="https://mohammedawad.online"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=900&color=D9B36A&center=true&vCenter=true&width=520&height=44&lines=I+am+a+Computer+Engineer;I+am+a+Team+Leader;I+am+an+AI+Engineer;I+am+a+Problem+Solver" alt="I am a Computer Engineer, a Team Leader, an AI Engineer and a Problem Solver"></a>
 </p>
 
+<!-- The same line in Arabic, typed right to left as on the site (?lang=ar). A GIF, because
+     GitHub cannot run the site's script; rendered by aborezq/portfolio, _src/readme.js. -->
+<p align="center">
+  <a href="https://mohammedawad.online/?lang=ar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/roles-ar-dark.gif">
+      <img src="assets/roles-ar-light.gif" width="520" alt="أنا مهندس حاسوب، قائد فريق، مهندس ذكاء اصطناعي، أحلّ المشكلات">
+    </picture>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://mohammedawad.online"><img src="https://img.shields.io/badge/Portfolio-mohammedawad.online-d9b36a?style=for-the-badge&labelColor=0b0a08" alt="Portfolio: mohammedawad.online"></a>
   <a href="https://www.linkedin.com/in/mohammed-r-awad-11a697411"><img src="https://img.shields.io/badge/LinkedIn-0b0a08?style=for-the-badge&logo=linkedin&logoColor=d9b36a" alt="LinkedIn"></a>
