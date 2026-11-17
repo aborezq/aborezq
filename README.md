@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <b>Open to remote internships and roles in AI, data, and machine learning</b> · graduating July 2027
+  <b>Open to remote internships and roles in AI, data, and machine learning</b> · graduating&nbsp;July&nbsp;2027
 </p>
 
 <p align="center">
@@ -50,12 +50,11 @@
 
 I'm a **senior in Intelligent Systems and Computer Engineering** at **Al-Aqsa University**, based in
 **Gaza, Palestine** — and I'm building my way into tech. My work spans **AI, data analytics, and machine
-learning**: I train models, evaluate them properly on held-out data, and ship web and mobile apps.
+learning**: I train models, ship web and mobile apps, and care about doing the evaluation properly.
 
 My story isn't a straight line. I kept building, studying, and shipping through power cuts, unstable
-internet, and everything that comes with living through a crisis; half of what I learn, I download first
-and read offline. Those constraints shaped how I work: resourceful, self-taught, and relentless about
-finishing what I start.
+internet, and everything that comes with living through a crisis. Half my learning happens offline,
+downloaded and read later. It made me resourceful and self-taught, and it taught me to finish what I start.
 
 - **Now** — Team Leader of **Nashrati** at TAQAT Academy · Marketing & Media Lead at [<img src="assets/gdg.svg" height="12" alt=""> GDG on Campus Al-Aqsa University](https://gdg.community.dev/gdg-on-campus-al-aqsa-university-gaza-state-of-palestine/)
 - **Since 2024** — freelance AI design visualization: photorealistic interior concepts for homes, cafés, wedding halls, and event spaces, made with generative-AI image tools
@@ -77,20 +76,19 @@ finishing what I start.
   </picture>
 </a>
 
-**Nashrati** turns a field reporter's recorded interview into a transcript, the people, places, and dates
-it mentions, and a draft for an editor to review. It is a four-part platform built by a team at TAQAT
-Academy — a Laravel API, a React dashboard, Python AI services, and a Flutter mobile app. As team leader,
-I own the product scope and the architecture across all four parts and coordinate the team through a
-12-week build cycle. I also built the mobile app myself (Aug–Oct 2026): its architecture, offline sync,
-audio capture, its Arabic and English interface, and 1,500+ automated tests.
+**Nashrati** takes a field reporter from a recorded interview to a draft an editor can review. It was
+built by a team at TAQAT Academy in four parts: a Laravel API, a React dashboard, Python AI services, and a
+Flutter app. As team leader, I decide what we build and how the four parts fit together, and I run our
+12-week build cycle. The mobile app is my own code — architecture, offline sync, audio capture, and the
+Arabic and English interface — with 1,500+ automated tests.
 
-**[Case study and app screens →](https://mohammedawad.online/#nashrati)** &nbsp;<sub>Code is private</sub>
+**[Case study and app screens&nbsp;→](https://mohammedawad.online/#nashrati)** &nbsp;<sub>Code&nbsp;is&nbsp;private</sub>
 
 | Project | What it does |
 |:--|:--|
 | **Bank Customer Churn Prediction**<br><sub>Machine learning · 2026</sub><br>[Notebook](https://github.com/aborezq/Bank-Customer-Churn-Prediction/blob/main/Churn_Project_Ai.ipynb) · [Code](https://github.com/aborezq/Bank-Customer-Churn-Prediction) | Tuned XGBoost on 10,000 bank customers (about 20% churn), compared with logistic regression, random forest, and a Keras neural network: **0.855 ROC-AUC** and **72.5% recall at 52% precision** on a held-out test set.<br><sub>Python · pandas · scikit-learn · XGBoost · TensorFlow</sub> |
 | **Pattern Recognition Research**<br><sub>Research · 2026</sub><br>[Paper](https://github.com/aborezq/Pattern-Recognition-Research/blob/main/Pattern_Recognition_Research.pdf) · [Repo](https://github.com/aborezq/Pattern-Recognition-Research) · [Interactive demo](https://mohammedawad.online/#lab) | Feature scaling can reorder classifiers. On a controlled synthetic dataset, naive Bayes leads on raw features (0.95 accuracy); once they're standardized, **SVM climbs from 0.70 to 0.98** and k-NN from 0.71 to 0.97.<br><sub>k-NN · SVM · logistic regression · decision trees · naive Bayes</sub> |
-| **Moodle Watcher**<br><sub>Automation · 2026</sub><br><sub>Code is private</sub> | A Telegram alert within 20 minutes of anything new on the university's Moodle, deadline reminders through Google Calendar, and a channel for classmates. Runs with no server, and has 68 automated tests.<br><sub>Python · Telegram Bot API · Cloudflare Workers · GitHub Actions</sub> |
+| **Moodle Watcher**<br><sub>Automation · 2026</sub><br><sub>Code&nbsp;is&nbsp;private</sub> | A Telegram alert within 20 minutes of any new file, assignment, or quiz on the university's Moodle, deadline reminders through Google Calendar, and a channel for classmates. It runs with no server and has 68 automated tests.<br><sub>Python · Telegram Bot API · Cloudflare Workers · GitHub Actions</sub> |
 | **Gaza Aid Portal**<br><sub>Web · Course project · 2025</sub><br>[Live front end](https://aborezq.github.io/Mohammed_Awad_Gaza_Aid/) · [Code](https://github.com/aborezq/Mohammed_Awad_Gaza_Aid) | A bilingual (English/Arabic) aid portal with **3 core flows**: register once for aid from several NGOs, check request status by ID or phone, and report a problem, with client- and server-side validation.<br><sub>HTML · CSS · JavaScript · PHP</sub> |
 
 <details>
@@ -99,8 +97,8 @@ audio capture, its Arabic and English interface, and 1,500+ automated tests.
 
 | Project | What it does |
 |:--|:--|
-| **Machine Learning Survey**<br><sub>Paper · AI course · 2026</sub><br>[Paper](https://github.com/aborezq/ML_Research/blob/main/Machine_Learning_Research.pdf) · [Repo](https://github.com/aborezq/ML_Research) | A survey of ML paradigms, landmark architectures, real-world applications, and AI ethics, with the churn-prediction pipeline as its practical part. |
-| **Library System**<br><sub>Java · 2025</sub><br>[Code](https://github.com/aborezq/Library_System) | A Java library system built on my own generic stack, queue, linked list, and dynamic array (no built-in collections), with role-based access for students, employees, and librarians. |
+| **Machine Learning Survey**<br><sub>Paper · AI course · 2026</sub><br>[Paper](https://github.com/aborezq/ML_Research/blob/main/Machine_Learning_Research.pdf) · [Repo](https://github.com/aborezq/ML_Research) | My Artificial Intelligence course paper: the main kinds of machine learning, the architectures that changed the field, where ML is used, and its ethics, with the churn model above as the hands-on part. |
+| **Library System**<br><sub>Java · 2025</sub><br>[Code](https://github.com/aborezq/Library_System) | Built without Java's collections: my own generic stack, queue, linked list, and dynamic array, each used where it fits, behind separate logins for students, employees, and librarians. |
 | **IT Company**<br><sub>Java · 2023</sub><br>[Code](https://github.com/aborezq/IT-Company) | Java application modeling an IT company: OOP design, class relationships, collections, and file handling. |
 | **Campus Network Design**<br><sub>Networks</sub><br>[Topology](https://github.com/aborezq/Networking) | A complete campus network in Cisco Packet Tracer: DHCP, RADIUS authentication, and WPA2-Enterprise wireless security. |
 | **Control System**<br><sub>Automation</sub><br>[Code](https://github.com/aborezq/Control-System) | Control-system designs for classic automation: a traffic-signal controller and a water-pump controller. |
@@ -114,9 +112,9 @@ audio capture, its Arabic and English interface, and 1,500+ automated tests.
   <img src="assets/title-lab-light.png" width="299" alt="03 Lab — Same data. Different answer.">
 </picture>
 
-The question behind my pattern-recognition research, made playable: the same synthetic bank customers,
-classified by k-NN in raw units or with standardized features, with live leave-one-out accuracy for both.
-**[Open the Lab →](https://mohammedawad.online/#lab)**
+The question behind my pattern-recognition research, made playable: one sample of synthetic bank customers,
+classified by k-NN twice — in raw units and with standardized features — with live leave-one-out accuracy
+for both. **[Open the Lab&nbsp;→](https://mohammedawad.online/#lab)**
 
 <p>
   <a href="https://mohammedawad.online/#lab">
@@ -134,36 +132,33 @@ classified by k-NN in raw units or with standardized features, with live leave-o
   <img src="assets/title-skills-light.png" width="296" alt="04 Skills — Tools I think in.">
 </picture>
 
-<!-- One link around the whole row, to the site's skills section; without it, GitHub links each
-     badge to its own image. -->
+<!-- Each badge links to the site's skills section; a bare image would link to itself on GitHub. -->
 <p>
-  <a href="https://mohammedawad.online/#skills">
-    <img src="https://img.shields.io/badge/Python-0b0a08?style=for-the-badge&logo=python&logoColor=d9b36a" alt="Python">
-    <img src="https://img.shields.io/badge/SQL-0b0a08?style=for-the-badge&logo=sqlite&logoColor=d9b36a" alt="SQL">
-    <img src="https://img.shields.io/badge/pandas-0b0a08?style=for-the-badge&logo=pandas&logoColor=d9b36a" alt="pandas">
-    <img src="https://img.shields.io/badge/NumPy-0b0a08?style=for-the-badge&logo=numpy&logoColor=d9b36a" alt="NumPy">
-    <img src="https://img.shields.io/badge/scikit--learn-0b0a08?style=for-the-badge&logo=scikitlearn&logoColor=d9b36a" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/XGBoost-0b0a08?style=for-the-badge" alt="XGBoost">
-    <img src="https://img.shields.io/badge/TensorFlow-0b0a08?style=for-the-badge&logo=tensorflow&logoColor=d9b36a" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Jupyter-0b0a08?style=for-the-badge&logo=jupyter&logoColor=d9b36a" alt="Jupyter">
-    <img src="https://img.shields.io/badge/LangChain-0b0a08?style=for-the-badge&logo=langchain&logoColor=d9b36a" alt="LangChain">
-    <img src="https://img.shields.io/badge/Claude%20API-0b0a08?style=for-the-badge&logo=claude&logoColor=d9b36a" alt="Claude API">
-    <img src="https://img.shields.io/badge/Dart-0b0a08?style=for-the-badge&logo=dart&logoColor=d9b36a" alt="Dart">
-    <img src="https://img.shields.io/badge/Flutter-0b0a08?style=for-the-badge&logo=flutter&logoColor=d9b36a" alt="Flutter">
-    <img src="https://img.shields.io/badge/Java-0b0a08?style=for-the-badge&logo=openjdk&logoColor=d9b36a" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-0b0a08?style=for-the-badge&logo=javascript&logoColor=d9b36a" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-0b0a08?style=for-the-badge&logo=html5&logoColor=d9b36a" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-0b0a08?style=for-the-badge&logo=css&logoColor=d9b36a" alt="CSS3">
-    <img src="https://img.shields.io/badge/Cloudflare-0b0a08?style=for-the-badge&logo=cloudflare&logoColor=d9b36a" alt="Cloudflare">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-0b0a08?style=for-the-badge&logo=githubactions&logoColor=d9b36a" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/Git-0b0a08?style=for-the-badge&logo=git&logoColor=d9b36a" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-0b0a08?style=for-the-badge&logo=github&logoColor=d9b36a" alt="GitHub">
-    <img src="https://img.shields.io/badge/VS%20Code-0b0a08?style=for-the-badge" alt="VS Code">
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0b0a08?style=for-the-badge&logo=intellijidea&logoColor=d9b36a" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/Postman-0b0a08?style=for-the-badge&logo=postman&logoColor=d9b36a" alt="Postman">
-    <img src="https://img.shields.io/badge/Figma-0b0a08?style=for-the-badge&logo=figma&logoColor=d9b36a" alt="Figma">
-    <img src="https://img.shields.io/badge/Linux-0b0a08?style=for-the-badge&logo=linux&logoColor=d9b36a" alt="Linux">
-  </a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Python-0b0a08?style=for-the-badge&logo=python&logoColor=d9b36a" alt="Python"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/SQL-0b0a08?style=for-the-badge&logo=sqlite&logoColor=d9b36a" alt="SQL"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/pandas-0b0a08?style=for-the-badge&logo=pandas&logoColor=d9b36a" alt="pandas"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/NumPy-0b0a08?style=for-the-badge&logo=numpy&logoColor=d9b36a" alt="NumPy"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/scikit--learn-0b0a08?style=for-the-badge&logo=scikitlearn&logoColor=d9b36a" alt="scikit-learn"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/XGBoost-0b0a08?style=for-the-badge" alt="XGBoost"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/TensorFlow-0b0a08?style=for-the-badge&logo=tensorflow&logoColor=d9b36a" alt="TensorFlow"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Jupyter-0b0a08?style=for-the-badge&logo=jupyter&logoColor=d9b36a" alt="Jupyter"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/LangChain-0b0a08?style=for-the-badge&logo=langchain&logoColor=d9b36a" alt="LangChain"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Claude%20API-0b0a08?style=for-the-badge&logo=claude&logoColor=d9b36a" alt="Claude API"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Dart-0b0a08?style=for-the-badge&logo=dart&logoColor=d9b36a" alt="Dart"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Flutter-0b0a08?style=for-the-badge&logo=flutter&logoColor=d9b36a" alt="Flutter"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Java-0b0a08?style=for-the-badge&logo=openjdk&logoColor=d9b36a" alt="Java"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/JavaScript-0b0a08?style=for-the-badge&logo=javascript&logoColor=d9b36a" alt="JavaScript"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/HTML5-0b0a08?style=for-the-badge&logo=html5&logoColor=d9b36a" alt="HTML5"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/CSS3-0b0a08?style=for-the-badge&logo=css&logoColor=d9b36a" alt="CSS3"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Cloudflare-0b0a08?style=for-the-badge&logo=cloudflare&logoColor=d9b36a" alt="Cloudflare"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/GitHub%20Actions-0b0a08?style=for-the-badge&logo=githubactions&logoColor=d9b36a" alt="GitHub Actions"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Git-0b0a08?style=for-the-badge&logo=git&logoColor=d9b36a" alt="Git"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/GitHub-0b0a08?style=for-the-badge&logo=github&logoColor=d9b36a" alt="GitHub"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/VS%20Code-0b0a08?style=for-the-badge" alt="VS Code"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-0b0a08?style=for-the-badge&logo=intellijidea&logoColor=d9b36a" alt="IntelliJ IDEA"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Postman-0b0a08?style=for-the-badge&logo=postman&logoColor=d9b36a" alt="Postman"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Figma-0b0a08?style=for-the-badge&logo=figma&logoColor=d9b36a" alt="Figma"></a>
+  <a href="https://mohammedawad.online/#skills"><img src="https://img.shields.io/badge/Linux-0b0a08?style=for-the-badge&logo=linux&logoColor=d9b36a" alt="Linux"></a>
 </p>
 
 <br>
@@ -173,7 +168,7 @@ classified by k-NN in raw units or with standardized features, with live leave-o
   <img src="assets/title-certs-light.png" width="318" alt="05 Certificates — Proof of the reps.">
 </picture>
 
-**32 verifiable certificates**, grouped by program.
+**32 certificates**, grouped by program.
 
 | Program | Issuer | Count |
 |:--|:--|--:|
@@ -186,7 +181,7 @@ classified by k-NN in raw units or with standardized features, with live leave-o
 | LangChain · Python | LangChain Academy | 2 |
 | Responsible AI | Google Cloud · Coursera | 1 |
 
-**[See all 32, each with a link to verify it →](https://mohammedawad.online/#certificates)**
+**[See all 32, each with a link to verify it&nbsp;→](https://mohammedawad.online/#certificates)**
 
 <br>
 
@@ -195,12 +190,12 @@ classified by k-NN in raw units or with standardized features, with live leave-o
   <img src="assets/title-contact-light.png" width="403" alt="06 Contact — Let's build something.">
 </picture>
 
-Open to remote internships and roles in AI, data, and machine learning, and to collaborating on AI-powered
-applications and open-source projects. Email me at [momoawad2004@gmail.com](mailto:momoawad2004@gmail.com),
+Hiring for an AI, data, or ML internship or role? Building an AI-powered app or an open-source project and
+want another pair of hands? Email me at [momoawad2004@gmail.com](mailto:momoawad2004@gmail.com),
 message me on [LinkedIn](https://www.linkedin.com/in/mohammed-r-awad-11a697411), or use
 [the form on my site](https://mohammedawad.online/#contact).
 
-**[Download my CV (PDF) →](https://mohammedawad.online/assets/Mohammed_Awad_CV.pdf)**
+**[Download my CV (PDF)&nbsp;→](https://mohammedawad.online/assets/Mohammed_Awad_CV.pdf)**
 
 <p align="center">
   <a href="https://mohammedawad.online"><b>mohammedawad.online</b></a> &nbsp;·&nbsp; <a href="https://mohammedawad.online/?lang=ar" lang="ar" hreflang="ar">بالعربية</a>
